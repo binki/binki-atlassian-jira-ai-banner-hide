@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name binki-atlassian-jira-ai-banner-hide
-// @version 1.0.2
+// @version 1.1.0
 // @homepageURL https://github.com/binki/binki-atlassian-jira-ai-banner-hide
 // @match https://*.atlassian.net/*
 // ==/UserScript==
